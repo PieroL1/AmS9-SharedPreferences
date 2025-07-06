@@ -88,7 +88,7 @@ git clone https://github.com/tuusuario/SharedPreferencesApp.git
 3. **Ejecuta en un emulador o dispositivo físico (Android 7.1/API 25+).**
 
 ## ⚡ NOTAS FINALES
-**App desarrollada solo para fines académicos.
-**Puedes cambiar las URLs de noticias, colores o textos a gusto.
-**Cumple todos los puntos requeridos de la Semana 9: contador, perfil y modo oscuro/ claro con persistencia.
+**App desarrollada solo para fines académicos.**
+**Puedes cambiar las URLs de noticias, colores o textos a gusto.**
+**Cumple todos los puntos requeridos de la Semana 9: contador, perfil y modo oscuro/ claro con persistencia.**
 
