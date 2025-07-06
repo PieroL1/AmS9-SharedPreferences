@@ -26,6 +26,7 @@
 
         <!-- Agrega la nueva actividad aquí -->
         <activity android:name=".WebViewActivity"/>
+        <activity android:name=".PerfilActivity" />
     </application>
 
 </manifest>
