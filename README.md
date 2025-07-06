@@ -89,6 +89,8 @@ git clone https://github.com/tuusuario/SharedPreferencesApp.git
 
 ## ⚡ NOTAS FINALES
 **App desarrollada solo para fines académicos.**
+
 **Puedes cambiar las URLs de noticias, colores o textos a gusto.**
+
 **Cumple todos los puntos requeridos de la Semana 9: contador, perfil y modo oscuro/ claro con persistencia.**
 
